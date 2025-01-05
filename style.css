@@ -34,7 +34,7 @@ section .dots2.active {
 }
 
 body {
-  background-image: url(../image/lotso.jpeg);
+  background-image: url(./lotso.jpeg);
   background-attachment: fixed;
   background-position: center;
   object-position: center 50%;
